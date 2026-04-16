@@ -1,0 +1,2 @@
+event_id,timestamp_utc,event_type,headline,source,gdelt_tone,verified,verification_source,notes
+E001,2026-02-27T14:30:00+00:00,MILITARY,Example headline,Reuters,,False,https://www.reuters.com/example,Replace with real rows; verification_source must cite Reuters or AP for verified=True
